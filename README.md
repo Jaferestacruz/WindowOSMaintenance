@@ -34,15 +34,40 @@ Jaferestacruz [Upwork/](https://www.upwork.com/o/profiles/users/~01f38009a39ec79
 3. Automate Organize
 
 ✅How to install the Program.
-This is the list of Step to Install the program.
-1️⃣<img src="image/1.png">
 
-2️⃣<img src="image/2.png">
-3️⃣<img src="image/3.png">
-4️⃣<img src="image/4.png">
-5️⃣<img src="image/5.png">
-6️⃣<img src="image/6.png">
-7️⃣<img src="image/7.png">
+
+This is the list of Step to Install the program.
+
+
+
+1️⃣
+
+<img src="image/1.png">
+
+
+2️⃣
+
+<img src="image/2.png">
+
+3️⃣
+
+<img src="image/3.png">
+
+4️⃣
+
+<img src="image/4.png">
+
+5️⃣
+
+<img src="image/5.png">
+
+6️⃣
+
+<img src="image/6.png">
+
+7️⃣
+
+<img src="image/7.png">
 
 ## Thank You for Supporting! Enjoy
 😀👍You can buy me ☕coffee Paypal email:jafereh23@gmail.com 
