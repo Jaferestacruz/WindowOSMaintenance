@@ -1,12 +1,5 @@
 # Window OS Maintenance
-<style>
-  .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-© 2021 GitHub, Inc.
-  </style>
-<img src="image/logo.png" alt="ApplicationImage" class="center"">
+
+<img src="image/logo.png">
 This is Windows Operating System Maintenance
+by [Jafere Sta Cruz](https://www.upwork.com/o/profiles/users/~01f38009a39ec7911f)
