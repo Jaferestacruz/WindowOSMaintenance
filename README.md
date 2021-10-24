@@ -35,7 +35,7 @@ Jaferestacruz [Upwork/](https://www.upwork.com/o/profiles/users/~01f38009a39ec79
 2. Collect Data
 3. Automate Organize
 
-##✅How to install the Program.
+## ✅How to install the Program.
 
 
 This is the list of Step to Install the program.
