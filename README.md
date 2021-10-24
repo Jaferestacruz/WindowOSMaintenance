@@ -8,7 +8,7 @@ by
 
 Jaferestacruz [Upwork/](https://www.upwork.com/o/profiles/users/~01f38009a39ec7911f)[Linkedin](https://www.linkedin.com/in/jaferestacruz)
 
-## DOWNLOAD HERE <img src="image/gdrive.ico.ico" alt="logo" style="width:50px;height:50px;">
+## DOWNLOAD HERE
 ➡[Google Drive](http://fumacrom.com/2dgji)
 
 😀👍You can buy me ☕coffee Paypal email:jafereh23@gmail.com 
